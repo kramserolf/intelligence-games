@@ -16,6 +16,7 @@ body {
 }
 .fc-200 {
     color: #EECAFF;
+    font-weight: 600;
 }
 .body {
     margin: 0;
@@ -78,7 +79,9 @@ footer a:hover {
         padding-top: 0 !important;
         padding-bottom: 30px;
     }
-
+    .nav-container {
+        margin-bottom: 0 !important;
+    }
 
     .gaming-container::before {
         width: 100%;
